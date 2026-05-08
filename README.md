@@ -7,6 +7,8 @@
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
+**[Démo en ligne](https://nestjs-task-manager-xjhr.onrender.com/api/docs)** &nbsp;•&nbsp; **[Documentation Swagger](https://nestjs-task-manager-xjhr.onrender.com/api/docs)**
+
 ---
 
 ## 📋 À propos
